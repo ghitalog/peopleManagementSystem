@@ -1,0 +1,15 @@
+C:\Visual\ManagementSystem\bin\Debug\net6.0\ManagementSystem.exe
+C:\Visual\ManagementSystem\bin\Debug\net6.0\ManagementSystem.deps.json
+C:\Visual\ManagementSystem\bin\Debug\net6.0\ManagementSystem.runtimeconfig.json
+C:\Visual\ManagementSystem\bin\Debug\net6.0\ManagementSystem.dll
+C:\Visual\ManagementSystem\bin\Debug\net6.0\ManagementSystem.pdb
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfo.cs
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.dll
+C:\Visual\ManagementSystem\obj\Debug\net6.0\refint\ManagementSystem.dll
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.pdb
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ManagementSystem.genruntimeconfig.cache
+C:\Visual\ManagementSystem\obj\Debug\net6.0\ref\ManagementSystem.dll
